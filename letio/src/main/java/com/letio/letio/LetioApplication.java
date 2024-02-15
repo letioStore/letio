@@ -8,6 +8,7 @@ public class LetioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LetioApplication.class, args);
+		
 	}
 
 }
